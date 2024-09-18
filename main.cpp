@@ -1,6 +1,4 @@
-//Chaitali Patil
-//301877356
-//CSCI 272 Fall 2024
+
 //Project 2:  Modeling Transformations
 
 #include <string.h>
